@@ -5,6 +5,9 @@ Unleash the potential of your online store with Magento's robust features, offer
 
 Enjoy the freedom to tailor your online store to perfection. Magento's intuitive interface allows you to effortlessly manage products, track inventory, and personalize the shopping process. With a responsive design, your customers can enjoy a consistent and user-friendly experience across various devices, enhancing accessibility and engagement.
 
+
+## Technologies:
+
  - Magento 2
  - PHP7.4
  - MySQL
